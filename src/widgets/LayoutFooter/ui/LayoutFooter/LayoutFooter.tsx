@@ -5,7 +5,7 @@ const LayoutFooter: FC = () => {
     <>
       <footer>
         <div className="p-8">
-          <h2 className="text-9xl text-white flex gap-x-4 font-black leading-none">
+          <h2 className="flex gap-x-4 text-9xl font-black leading-none text-white">
             <span>LIMIT</span>
             <span>ME</span>
           </h2>

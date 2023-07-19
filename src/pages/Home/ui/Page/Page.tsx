@@ -20,17 +20,17 @@ const Home: FC = () => {
           className="h-full"
         >
           <SwiperSlide>
-            <h1 className="uppercase xl:w-[1172px] z-30 text-8xl text-white font-black leading-none">
+            <h1 className="z-30 text-8xl font-black uppercase leading-none text-white xl:w-[1172px]">
               Embrace scarcity, unlock self-control
             </h1>
           </SwiperSlide>
           <SwiperSlide>
-            <h1 className="uppercase xl:w-[1065px] text-8xl text-white font-black leading-none">
+            <h1 className="text-8xl font-black uppercase leading-none text-white xl:w-[1065px]">
               Rediscover the power of restraint
             </h1>
           </SwiperSlide>
           <SwiperSlide>
-            <h1 className="uppercase xl:w-[834px] text-8xl text-white font-black leading-none">
+            <h1 className="text-8xl font-black uppercase leading-none text-white xl:w-[834px]">
               Your guide to a balanced and intentional lifestyle
             </h1>
           </SwiperSlide>

@@ -7,7 +7,7 @@ const Auth = () => {
   return (
     <>
       <section>
-        <div className="container flex items-center justify-center h-mainScreen">
+        <div className="container flex h-mainScreen items-center justify-center">
           {AuthToggle ? (
             <>
               <Login />

@@ -4,7 +4,7 @@ import { Auth, Logo } from "@/widgets";
 const LayoutHeader: FC = () => {
   return (
     <>
-      <header className="p-8 flex items-center justify-between bg-black">
+      <header className="flex items-center justify-between bg-black p-8">
         <Logo logoName={"LM"} />
         <Auth />
       </header>

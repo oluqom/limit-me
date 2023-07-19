@@ -4,7 +4,7 @@ import { Outlet } from "react-router-dom";
 
 const Layout: FC = () => {
   return (
-    <div className="max-h-screen bg-black flex flex-col justify-between overflow-hidden">
+    <div className="flex max-h-screen flex-col justify-between overflow-hidden bg-black">
       <LayoutHeader />
       <main>
         <Outlet />

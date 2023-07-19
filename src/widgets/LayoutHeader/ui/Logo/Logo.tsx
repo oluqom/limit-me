@@ -6,7 +6,7 @@ const Logo: FC<Logo> = ({ logoName }: Logo) => {
   return (
     <div className="navbar-start">
       <Link
-        className="font-black text-white leading-none uppercase text-4xl"
+        className="text-4xl font-black uppercase leading-none text-white"
         to="/"
       >
         {logoName}
