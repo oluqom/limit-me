@@ -1,5 +1,5 @@
 import LayoutHeader from "./ui/LayoutHeader/LayoutHeader";
 import Logo from "./ui/Logo/Logo";
-import Menu from "./ui/Menu/Menu";
+import Auth from "./ui/Auth/Auth";
 
-export { LayoutHeader, Logo, Menu };
+export { LayoutHeader, Logo, Auth };
