@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.swiper-wrapper {
+  height: calc(100vh - 296px) !important;
+}
+
+.swiper-slide {
+  display: flex;
+  justify-content: center !important;
+  align-items: center !important;
+  padding: 32px;
+  height: 100% !important;
+}
