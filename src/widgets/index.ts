@@ -1,4 +1,4 @@
 import { LayoutFooter } from "./LayoutFooter";
-import { LayoutHeader, Logo, Menu } from "./LayoutHeader";
+import { LayoutHeader, Logo, Auth } from "./LayoutHeader";
 
-export { LayoutHeader, Logo, Menu, LayoutFooter };
+export { LayoutHeader, Logo, Auth, LayoutFooter };
