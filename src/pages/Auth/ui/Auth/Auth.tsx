@@ -2,7 +2,7 @@ import Login from "../Login/Login";
 import Register from "../Register/Register";
 
 const Auth = () => {
-  const AuthToggle = true;
+  const AuthToggle = false;
 
   return (
     <>
